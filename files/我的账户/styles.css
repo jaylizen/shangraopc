@@ -877,3 +877,25 @@
   width:26px;
   word-wrap:break-word;
 }
+#u178_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:240px;
+  height:30px;
+}
+#u178 {
+  position:absolute;
+  left:835px;
+  top:252px;
+  width:240px;
+  height:30px;
+}
+#u179 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:236px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
