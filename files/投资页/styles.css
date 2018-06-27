@@ -566,3 +566,25 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u134_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:162px;
+  height:23px;
+}
+#u134 {
+  position:absolute;
+  left:1104px;
+  top:495px;
+  width:162px;
+  height:23px;
+}
+#u135 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:158px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
