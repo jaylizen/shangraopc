@@ -3500,8 +3500,8 @@
 }
 #u548 {
   position:absolute;
-  left:525px;
-  top:288px;
+  left:532px;
+  top:404px;
   width:559px;
   height:314px;
   overflow:hidden;
@@ -5352,4 +5352,13 @@
   top:0px;
   width:460px;
   word-wrap:break-word;
+}
+#u663 {
+  position:absolute;
+  left:630px;
+  top:289px;
+  width:84px;
+  height:37px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
