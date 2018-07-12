@@ -19,6 +19,8 @@
 .placeholder {
 }
 .button {
+}
+.button1 {
   font-family:'微软雅黑 Regular', '微软雅黑';
 }
 .primary_button {
@@ -76,6 +78,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 .sticky_1 {
   text-align:left;
 }
@@ -92,4 +96,9 @@
 }
 .html_button {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.icon {
 }
